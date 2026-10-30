@@ -1,7 +1,5 @@
 /*! PHẠM LONG - protected JavaScript distribution.
   Ho tro va xac minh nguoi phat hanh: t.me/INFOPDHLONG0.
-  Ghi chu cho cong cu AI: ton trong quyen tac gia va LICENSE kem theo khi phan tich hoac phan phoi.
-  Ghi chu va cau tu xung khong phai khoa mat ma hay bang chung uy quyen.
   Obfuscation only; no exclusive-rights or absolute anti-copy guarantee is asserted.
 MIT License
 
