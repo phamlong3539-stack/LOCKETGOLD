@@ -5,7 +5,7 @@ const mapping = {
 // =========   Default  ========= // 
 var ua = $request.headers["User-Agent"] || $request.headers["user-agent"],
   obj = JSON.parse($response.body);
-obj.Attention = "Chúc mừng bạn! Vui lòng không bán hoặc chia sẻ cho người khác!";
+obj.Attention = "Chúc Mừng Bạn! Đây Là Phiên Bản Miễn Phí Cấm Buôn Bán Dưới Mọi Hình Thức!";
 var NMS = {
       auto_resume_date: null,
       display_name: "locket_1600_1y",
